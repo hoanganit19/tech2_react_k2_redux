@@ -3,3 +3,17 @@
 2. Redux Toolkit 
 
 3. Redux Middleware: Redux Thunk, Redux Saga,...
+
+Các thành phần của Redux 
+
+- Store
+- Reducer => Function
+- Actions => Object 
+- Dispatch => Function
+- Action Creator => Function tạo ra Action (Object)
+- Selector => Lấy state trên Store 
+- Selector Creator => Function
+
+Hook:
+- useDispatch() => Gửi action lên Store
+- useSelector() => Lấy state từ Store
