@@ -1,0 +1,5 @@
+1. Redux Core
+
+2. Redux Toolkit 
+
+3. Redux Middleware: Redux Thunk, Redux Saga,...
