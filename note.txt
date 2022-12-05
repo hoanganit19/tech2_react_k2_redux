@@ -1,6 +1,6 @@
 1. Redux Core
 
-2. Redux Toolkit 
+2. Redux Toolkit => Bản đóng gói của Redux
 
 3. Redux Middleware: Redux Thunk, Redux Saga,...
 
@@ -17,3 +17,13 @@ Các thành phần của Redux
 Hook:
 - useDispatch() => Gửi action lên Store
 - useSelector() => Lấy state từ Store
+
+Redux Toolkit 
+
+- Slice:
++ Reducer 
++ Actions 
++ Selector 
++ Middleware (Thunk)
+
+- Store
